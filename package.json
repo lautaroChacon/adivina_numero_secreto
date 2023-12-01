@@ -1,0 +1,14 @@
+{
+  "name": "actividad_2",
+  "version": "1.0.0",
+  "description": "resolucion de la actividad 2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lautaro chacon",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
